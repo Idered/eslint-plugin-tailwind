@@ -49,6 +49,8 @@ See [/example/.vscode](./example/.vscode) directory for recommended project sett
 
 ## Roadmap
 
+- [ ] Handle responsive prefixes - `sm`, `md` etc.
+- [ ] Handle pseudo classes - `hover`, `active` etc.
 - [ ] Add support for Vue
 - [ ] Add support for Svelte
 - [ ] Add support for Angular
