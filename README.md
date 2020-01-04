@@ -1,5 +1,9 @@
 # eslint-plugin-tailwind
 
+<p align="center">
+  <img src="https://i.imgur.com/jFKJZMw.gif">
+</p>
+
 ![npm (scoped)](https://img.shields.io/npm/v/eslint-plugin-tailwind?style=for-the-badge) ![npm bundle size (scoped)](https://img.shields.io/npm/l/eslint-plugin-tailwind?style=for-the-badge)
 
 ESLint rules for [Tailwind CSS](https://tailwindcss.com/)
