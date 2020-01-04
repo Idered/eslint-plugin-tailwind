@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended", "plugin:tailwind/recommended"],
+  "env": {
+    "browser": true,
+    "es6": true
+  }
+}
