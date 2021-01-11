@@ -27,7 +27,8 @@
     "lib"
   ],
   "dependencies": {
-    "eslint-html-parser": "^1.0.1"
+    "eslint-html-parser": "^1.0.1",
+    "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
     "@types/eslint": "^6.1.3",
